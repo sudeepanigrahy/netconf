@@ -1,8 +1,8 @@
 from ncclient import manager
 import xml.dom.minidom
 
-router = {"host": "10.70.126.152", "port": "830",
-          "username": "spanigrahy", "password": "Sueme@0128"}
+router = {"host": "*********", "port": "830",
+          "username": "********", "password": "*********"}
 
 netconf_filter = """
  <filter>
